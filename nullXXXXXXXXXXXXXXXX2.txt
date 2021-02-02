@@ -1,0 +1,412 @@
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXX2         
+         Serial No: XXXXXXXXXX          
+
+             SALES INVOICE              
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+  1 200000000002     195.00    195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+  1 200000000003     200.00    200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+  1 200000000004     175.00    175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+  1 200000000005     230.00    230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: 5
+
+ Sub-Total                      1020.00
+                          -------------
+ Price Exclusive of VAT          910.71
+                          -------------
+ Net Sales (w/o VAT)             910.71
+ Add: VAT                        109.29
+                          -------------
+ TOTAL AMOUNT DUE :             1020.00
+
+ Cash                           1100.00
+
+ CHANGE           :               80.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+
+ Cust Name: Abad, Joselito Rosario      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Cashier: ENCODER DEMO ACCOUNT          
+ Terminal No.: 02                       
+ Transaction No.: M0010220000001        
+ SI No.: 0000000001                     
+ Date/Time: 2020-07-16 05:39:38            
+****************************************
+
+      This is your SALES INVOICE.       
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXX2         
+         Serial No: XXXXXXXXXX          
+
+               X-READING                
+
+DATE    : 2020-07-16                    
+CASHIER : ENCODER DEMO ACCOUNT          
+TERMINAL: 02                            
+
+****************************************
+
+ Shift Start : 2020-07-16 05:38:27      
+ Shift End   : 2020-07-16 05:39:46      
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000001               
+
+ GROSS SALES                    1020.00
+ Less : Regular Discnt             0.00
+        Senior Dscnt/PWD           0.00
+        Returns                    0.00
+        Void                       0.00
+                          -------------
+ NET SALES                      1020.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Senior/PWD Gross Sales:           0.00
+   Senior/PWD Net Sales:           0.00
+     Less: 20% Discount:           0.00
+           Less 12% VAT:           0.00
+
+ Collection Info:        
+  Deposit                       2000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                3020.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :              0.00
+  Ending Balance    :           1020.00
+----------------------------------------
+  Curr. Sales Amt.  :           1020.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-16 05:39:46
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXX2         
+         Serial No: XXXXXXXXXX          
+
+               Z-READING                
+
+DATE    : 2020-07-16 to 2020-07-16      
+TERMINAL: 02                            
+
+****************************************
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000001               
+
+ GROSS SALES                    1020.00
+ Less : Regular Discnt             0.00
+        Senior Dscnt/PWD           0.00
+        Returns                    0.00
+        Void                       0.00
+                          -------------
+ NET SALES                      1020.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Senior/PWD Gross Sales:           0.00
+   Senior/PWD Net Sales:           0.00
+     Less: 20% Discount:           0.00
+           Less 12% VAT:           0.00
+
+ Collection Info:        
+  Deposit                       2000.00
+  Withdrawal                       0.00
+  Cashbox Amount                3020.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :              0.00
+  Ending Balance    :           1020.00
+----------------------------------------
+         Z COUNTER:                   1
+  ACC. GRAND TOTAL:             1020.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-16 05:39:46
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXX2         
+         Serial No: XXXXXXXXXX          
+
+               X-READING                
+
+DATE    : 2020-07-16                    
+CASHIER : ENCODER DEMO ACCOUNT          
+TERMINAL: 02                            
+
+****************************************
+
+ Shift Start : 2020-07-16 05:38:27      
+ Shift End   : 2020-07-16 05:39:46      
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000001               
+
+ GROSS SALES                    1020.00
+ Less : Regular Discnt             0.00
+        Senior Dscnt/PWD           0.00
+        Returns                    0.00
+        Void                       0.00
+                          -------------
+ NET SALES                      1020.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Senior/PWD Gross Sales:           0.00
+   Senior/PWD Net Sales:           0.00
+     Less: 20% Discount:           0.00
+           Less 12% VAT:           0.00
+
+ Collection Info:        
+  Deposit                       2000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                3020.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :              0.00
+  Ending Balance    :           1020.00
+----------------------------------------
+  Curr. Sales Amt.  :           1020.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-17 05:40:48
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXX2         
+         Serial No: XXXXXXXXXX          
+
+               Z-READING                
+
+DATE    : 2020-07-16 to 2020-07-16      
+TERMINAL: 02                            
+
+****************************************
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000001               
+
+ GROSS SALES                    1020.00
+ Less : Regular Discnt             0.00
+        Senior Dscnt/PWD           0.00
+        Returns                    0.00
+        Void                       0.00
+                          -------------
+ NET SALES                      1020.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Senior/PWD Gross Sales:           0.00
+   Senior/PWD Net Sales:           0.00
+     Less: 20% Discount:           0.00
+           Less 12% VAT:           0.00
+
+ Collection Info:        
+  Deposit                       2000.00
+  Withdrawal                       0.00
+  Cashbox Amount                3020.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :              0.00
+  Ending Balance    :           1020.00
+----------------------------------------
+         Z COUNTER:                   1
+  ACC. GRAND TOTAL:             1020.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-17 05:42:16
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXX2         
+         Serial No: XXXXXXXXXX          
+
+               X-READING                
+
+DATE    : 2020-07-17                    
+CASHIER : ENCODER DEMO ACCOUNT          
+TERMINAL: 02                            
+
+****************************************
+
+ Shift Start : 2020-07-17 05:40:22      
+ Shift End   : 2020-07-17 05:43:52      
+
+ Beginning SI:                          
+ Ending SI   :                          
+
+ GROSS SALES                       0.00
+ Less : Regular Discnt             0.00
+        Senior Dscnt/PWD           0.00
+        Returns                    0.00
+        Void                       0.00
+                          -------------
+ NET SALES                         0.00
+
+ VATable Sales                     0.00
+ VAT Amount                        0.00
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Senior/PWD Gross Sales:           0.00
+   Senior/PWD Net Sales:           0.00
+     Less: 20% Discount:           0.00
+           Less 12% VAT:           0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                1000.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :           1020.00
+  Ending Balance    :           1020.00
+----------------------------------------
+  Curr. Sales Amt.  :              0.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-17 05:43:52
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXX2         
+         Serial No: XXXXXXXXXX          
+
+               Z-READING                
+
+DATE    : 2020-07-17 to 2020-07-17      
+TERMINAL: 02                            
+
+****************************************
+
+ Beginning SI:                          
+ Ending SI   :                          
+
+ GROSS SALES                       0.00
+ Less : Regular Discnt             0.00
+        Senior Dscnt/PWD           0.00
+        Returns                    0.00
+        Void                       0.00
+                          -------------
+ NET SALES                         0.00
+
+ VATable Sales                     0.00
+ VAT Amount                        0.00
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Senior/PWD Gross Sales:           0.00
+   Senior/PWD Net Sales:           0.00
+     Less: 20% Discount:           0.00
+           Less 12% VAT:           0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+  Cashbox Amount                1000.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :           1020.00
+  Ending Balance    :           1020.00
+----------------------------------------
+         Z COUNTER:                   2
+  ACC. GRAND TOTAL:             1020.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-17 05:43:52
+----------------------------------------

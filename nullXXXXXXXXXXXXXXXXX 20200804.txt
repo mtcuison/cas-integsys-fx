@@ -1,0 +1,351 @@
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+             SALES INVOICE              
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+----------------------------------------
+ No. of Items: 1
+
+ Gross Sales                     220.00
+                          -------------
+ VATable Sales                   220.00
+                          -------------
+ Net VATable Sales               196.43
+ Add: VAT                         23.57
+                          -------------
+ TOTAL AMOUNT DUE :              220.00
+
+ Cash                            220.00
+
+ CHANGE           :                0.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   196.43
+ VAT Amount                       23.57
+
+ Cust Name: Agas, Jimmy Flores          
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000001                     
+ Transaction No.: 0000000001            
+ Date/Time: 2020-08-04 20:54:36            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+                 RETURN                 
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+----------------------------------------
+ No. of Items: -1
+
+ Gross Sales                    -220.00
+                          -------------
+ VATable Sales                  -220.00
+                          -------------
+ Net VATable Sales              -196.43
+ Add: VAT                        -23.57
+                          -------------
+ TOTAL AMOUNT DUE :             -220.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -196.43
+ VAT Amount                      -23.57
+
+ Cust Name: Agas, Jimmy Flores          
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000001             
+ Transaction No.: 0000000002            
+ Date/Time: 2020-08-04 20:55:03            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+             SALES INVOICE              
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+100 200000000005     230.00  23000.00V
+    HONDA BEAT OIL
+     RAINY DAY DISC.                    
+      5.0%                  (1150.00)
+      10.00                   (10.00)
+----------------------------------------
+ No. of Items: 100
+
+ Gross Sales                   21840.00
+                          -------------
+ VATable Sales                 21840.00
+                          -------------
+ Net VATable Sales             19500.00
+ Add: VAT                       2340.00
+                          -------------
+ TOTAL AMOUNT DUE :            21840.00
+
+ Cash                          22000.00
+
+ CHANGE           :              160.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                 19500.00
+ VAT Amount                     2340.00
+
+ Cust Name: Yambao, Jeffrey Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000002                     
+ Transaction No.: 0000000003            
+ Date/Time: 2020-08-04 20:56:19            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               X-READING                
+
+DATE    : 2020-08-04                    
+CASHIER : CUISON, MICHAEL TORRES        
+TERMINAL: 01                            
+
+****************************************
+
+ Shift Start : 2020-08-04 20:53:56      
+ Shift End   : 2020-08-04 20:56:54      
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+  Beginning Balance :              0.00
+  Ending Balance    :          21840.00
+
+ GROSS SALES                   22060.00
+ Less : Regular Discnt             0.00
+        Returns                  220.00
+                          -------------
+ NET SALES                     21840.00
+
+ VATable Sales                 19500.00
+ VAT Amount                     2340.00
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount               22840.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Total Sales for the day      21840.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-08-04 20:56:54
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Z-READING                
+
+DATE    : 2020-08-04 to 2020-08-04      
+TERMINAL: 01                            
+
+****************************************
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+ GROSS SALES                   22060.00
+ Less : Regular Discnt             0.00
+        Returns                  220.00
+                          -------------
+ NET SALES                     21840.00
+
+ VATable Sales                 19500.00
+ VAT Amount                     2340.00
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+  Cashbox Amount               22840.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :              0.00
+  Ending Balance    :          21840.00
+----------------------------------------
+         Z COUNTER:                   1
+  ACC. GRAND TOTAL:            21840.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-08-04 20:56:54
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Z-READING                
+
+DATE    : 2020-08-04 to 2020-08-04      
+TERMINAL: 01                            
+
+****************************************
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+ GROSS SALES                   22060.00
+ Less : Regular Discnt             0.00
+        Returns                  220.00
+                          -------------
+ NET SALES                     21840.00
+
+ VATable Sales                 19500.00
+ VAT Amount                     2340.00
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+  Cashbox Amount               22840.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :              0.00
+  Ending Balance    :          21840.00
+----------------------------------------
+         Z COUNTER:                   2
+  ACC. GRAND TOTAL:            21840.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-08-04 22:36:30
+----------------------------------------

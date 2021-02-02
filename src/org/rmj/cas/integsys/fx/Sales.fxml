@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+<?import org.controlsfx.control.textfield.CustomTextField?>
+
+<AnchorPane id="AnchorPane" minWidth="1160.0" prefWidth="1160.0" stylesheets="@../style/child.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <StackPane prefHeight="632.0" prefWidth="1116.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <BorderPane fx:id="bpContent" minWidth="1160.0" prefHeight="644.0">
+               <center>
+                  <StackPane prefHeight="597.0" prefWidth="1060.0" BorderPane.alignment="CENTER">
+                     <children>
+                        <BorderPane prefHeight="540.0" prefWidth="772.0" style="-fx-background-color: #B3B6B7;">
+                           <top>
+                              <AnchorPane minHeight="90.0" prefHeight="139.0" prefWidth="1060.0" style="-fx-background-color: #B3B6B7;" BorderPane.alignment="TOP_LEFT">
+                                 <children>
+                                    <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="53.0" prefWidth="1060.0" style="-fx-background-color: black;" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                                       <children>
+                                          <Separator layoutY="35.0" minHeight="1.0" prefHeight="1.0" prefWidth="1068.0" style="-fx-background-color: orange;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+                                          <Label fx:id="lblField00" alignment="CENTER" layoutX="724.0" layoutY="-10.0" prefHeight="39.0" prefWidth="333.0" text="IntegSysFX POS System v1.0" textFill="WHITE">
+                                             <font>
+                                                <Font name="System Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label fx:id="lblField01" layoutX="729.0" layoutY="31.0" prefHeight="14.0" prefWidth="333.0" text="Machine No: XXXXXXXXXXXXXXXXX" textFill="WHITE">
+                                             <font>
+                                                <Font name="Arial" size="11.0" />
+                                             </font>
+                                          </Label>
+                                          <Label fx:id="lblField02" layoutX="729.0" layoutY="17.0" prefHeight="17.0" prefWidth="333.0" text="Accreditation No: XXXXXXXXXXXXXXXXXXXX" textFill="WHITE" AnchorPane.topAnchor="17.0">
+                                             <font>
+                                                <Font name="Arial" size="11.0" />
+                                             </font>
+                                          </Label>
+                                          <Label fx:id="lblField03" layoutX="14.0" layoutY="15.0" prefHeight="20.0" prefWidth="65.0" text="POS Date:" textFill="WHITE" AnchorPane.leftAnchor="14.0">
+                                             <font>
+                                                <Font name="Arial" size="11.0" />
+                                             </font>
+                                          </Label>
+                                          <Label fx:id="lblField04" layoutX="79.0" layoutY="16.0" prefHeight="19.0" prefWidth="91.0" text="20200204" textFill="WHITE" AnchorPane.leftAnchor="79.0">
+                                             <font>
+                                                <Font name="Arial" size="11.0" />
+                                             </font>
+                                          </Label>
+                                       </children>
+                                    </AnchorPane>
+                                    <AnchorPane layoutX="4.0" layoutY="95.0" maxHeight="40.0" maxWidth="1053.0" minHeight="40.0" minWidth="410.0" prefHeight="40.0" prefWidth="1053.0" style="-fx-background-radius: 5; -fx-background-color: #4d5656;" AnchorPane.leftAnchor="4.0" AnchorPane.rightAnchor="4.0" AnchorPane.topAnchor="95.0">
+                                       <children>
+                                          <Button fx:id="cmdButton12" layoutX="847.0" layoutY="4.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="180.0" text="Search">
+                                             <graphic>
+                                                <FontAwesomeIconView glyphName="SEARCH" size="20" />
+                                             </graphic>
+                                          </Button>
+                                          <CustomTextField fx:id="txtSeeks99" layoutX="14.0" layoutY="7.0" maxHeight="30.0" prefHeight="25.0" prefWidth="813.0" promptText="Press F3 for Description or Enter for Barcode" />
+                                       </children>
+                                    </AnchorPane>
+                                    <AnchorPane layoutX="4.0" layoutY="53.0" minHeight="40.0" prefHeight="40.0" prefWidth="1053.0" style="-fx-background-radius: 5; -fx-background-color: #4d5656;" AnchorPane.leftAnchor="4.0" AnchorPane.rightAnchor="4.0">
+                                       <children>
+                                          <CustomTextField fx:id="txtField91" layoutX="252.0" layoutY="7.0" maxHeight="34.0" prefHeight="34.0" prefWidth="576.0" promptText="Customer Name" />
+                                          <Button fx:id="cmdButton11" layoutX="848.0" layoutY="4.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="180.0" text="Browse">
+                                             <graphic>
+                                                <FontAwesomeIconView glyphName="FOLDER" size="20" />
+                                             </graphic>
+                                          </Button>
+                                          <CustomTextField fx:id="txtField90" layoutX="16.0" layoutY="7.0" prefHeight="25.0" prefWidth="218.0" promptText="Transaction No" />
+                                       </children>
+                                    </AnchorPane>
+                                 </children>
+                              </AnchorPane>
+                           </top>
+                           <bottom>
+                              <AnchorPane prefHeight="166.0" prefWidth="1060.0" BorderPane.alignment="CENTER">
+                                 <children>
+                                    <GridPane layoutX="402.0" layoutY="14.0" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="4.0">
+                                       <columnConstraints>
+                                          <ColumnConstraints halignment="RIGHT" hgrow="SOMETIMES" maxWidth="100.0" minWidth="100.0" prefWidth="100.0" />
+                                          <ColumnConstraints halignment="RIGHT" hgrow="SOMETIMES" maxWidth="10.0" minWidth="10.0" prefWidth="10.0" />
+                                          <ColumnConstraints hgrow="SOMETIMES" maxWidth="300.0" minWidth="300.0" prefWidth="300.0" />
+                                       </columnConstraints>
+                                       <rowConstraints>
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                                       </rowConstraints>
+                                       <children>
+                                          <CustomTextField fx:id="txtField04" promptText="Quick Search" GridPane.columnIndex="2" />
+                                          <TextField fx:id="txtAddress" disable="true" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </TextField>
+                                          <TextArea fx:id="txtField06" prefHeight="69.0" prefWidth="241.0" GridPane.columnIndex="2" GridPane.rowIndex="2" GridPane.rowSpan="2">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </TextArea>
+                                          <CustomTextField fx:id="txtField07" promptText="Quick Search" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+                                          <TextField fx:id="txtField14" alignment="CENTER_RIGHT" maxWidth="-Infinity" minWidth="160.0" prefWidth="160.0" visible="false" GridPane.columnIndex="2" GridPane.rowIndex="5">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </TextField>
+                                          <Label alignment="CENTER_RIGHT" contentDisplay="RIGHT" prefHeight="26.0" prefWidth="157.0" text="Client Name:">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label alignment="CENTER_RIGHT" contentDisplay="RIGHT" prefHeight="26.0" prefWidth="134.0" text="Remarks:" GridPane.rowIndex="3">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label alignment="CENTER_RIGHT" contentDisplay="RIGHT" prefHeight="26.0" prefWidth="121.0" text="Address:" GridPane.rowIndex="1">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label alignment="CENTER_RIGHT" contentDisplay="RIGHT" prefHeight="26.0" prefWidth="139.0" text="Sales Person:" GridPane.rowIndex="4">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label alignment="CENTER_RIGHT" contentDisplay="RIGHT" prefHeight="15.0" prefWidth="130.0" text="Amount Paid:" visible="false" GridPane.rowIndex="5">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </Label>
+                                       </children>
+                                    </GridPane>
+                                    <GridPane AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="480.0">
+                                       <columnConstraints>
+                                          <ColumnConstraints halignment="RIGHT" hgrow="SOMETIMES" maxWidth="111.0" minWidth="99.0" prefWidth="99.0" />
+                                          <ColumnConstraints halignment="RIGHT" hgrow="SOMETIMES" maxWidth="10.0" minWidth="10.0" prefWidth="10.0" />
+                                          <ColumnConstraints hgrow="SOMETIMES" maxWidth="110.0" minWidth="110.0" prefWidth="110.0" />
+                                       </columnConstraints>
+                                       <rowConstraints>
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" valignment="CENTER" vgrow="ALWAYS" />
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" valignment="CENTER" vgrow="ALWAYS" />
+                                          <RowConstraints minHeight="26.0" prefHeight="26.0" valignment="CENTER" vgrow="ALWAYS" />
+                                          <RowConstraints minHeight="26.0" prefHeight="26.0" valignment="CENTER" vgrow="ALWAYS" />
+                                          <RowConstraints minHeight="26.0" prefHeight="26.0" valignment="CENTER" vgrow="ALWAYS" />
+                                          <RowConstraints minHeight="26.0" prefHeight="26.0" valignment="CENTER" vgrow="ALWAYS" />
+                                       </rowConstraints>
+                                       <children>
+                                          <TextField fx:id="txtField03" prefHeight="25.0" prefWidth="152.0" text="July 04, 2018" GridPane.columnIndex="2">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </TextField>
+                                          <Label prefHeight="34.0" prefWidth="99.0" text="Trans. Date:">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <TextField fx:id="txtField09" alignment="CENTER_RIGHT" editable="false" prefHeight="8.0" prefWidth="160.0" text="10000.00" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </TextField>
+                                          <TextField fx:id="txtField13" alignment="CENTER_RIGHT" text="0.00" visible="false" GridPane.columnIndex="2" GridPane.rowIndex="4">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </TextField>
+                                          <TextField fx:id="txtField11" alignment="CENTER_RIGHT" editable="false" text="0.00" GridPane.columnIndex="2" GridPane.rowIndex="2">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </TextField>
+                                          <TextField fx:id="txtField12" alignment="CENTER_RIGHT" editable="false" text="0.00" GridPane.columnIndex="2" GridPane.rowIndex="3">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </TextField>
+                                          <Label prefHeight="41.0" prefWidth="99.0" text="Total Order:" GridPane.rowIndex="1">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label prefHeight="41.0" prefWidth="99.0" text="Freight:" visible="false" GridPane.rowIndex="4">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label prefHeight="40.0" prefWidth="99.0" text="Discount:" GridPane.rowIndex="2">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label prefHeight="40.0" prefWidth="99.0" text="Addtl. Disc.:" GridPane.rowIndex="3">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label prefHeight="38.0" prefWidth="99.0" text="Term:" visible="false" GridPane.rowIndex="5">
+                                             <font>
+                                                <Font name="Courier New" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <CustomTextField fx:id="txtField15" editable="false" promptText="Quck Search" visible="false" GridPane.columnIndex="2" GridPane.rowIndex="5" />
+                                       </children>
+                                    </GridPane>
+                                    <GridPane layoutX="719.0" layoutY="32.0" prefHeight="195.0" prefWidth="310.0" AnchorPane.bottomAnchor="5.0">
+                                       <columnConstraints>
+                                          <ColumnConstraints hgrow="SOMETIMES" maxWidth="177.0" minWidth="10.0" prefWidth="163.0" />
+                                          <ColumnConstraints hgrow="SOMETIMES" maxWidth="10.0" minWidth="10.0" prefWidth="10.0" />
+                                          <ColumnConstraints hgrow="SOMETIMES" maxWidth="165.0" minWidth="10.0" prefWidth="156.0" />
+                                       </columnConstraints>
+                                       <rowConstraints>
+                                          <RowConstraints minHeight="10.0" prefHeight="30.0" />
+                                          <RowConstraints minHeight="10.0" prefHeight="30.0" />
+                                          <RowConstraints minHeight="10.0" prefHeight="20.0" />
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                                          <RowConstraints />
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                                          <RowConstraints minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                                          <RowConstraints minHeight="10.0" prefHeight="20.0" vgrow="SOMETIMES" />
+                                          <RowConstraints minHeight="10.0" prefHeight="35.0" vgrow="SOMETIMES" />
+                                       </rowConstraints>
+                                       <children>
+                                          <Label alignment="CENTER_RIGHT" prefHeight="26.0" prefWidth="204.0" text="Sub-Total" GridPane.rowIndex="3">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label fx:id="lblSubTotal" alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="176.0" text="10000.00" GridPane.columnIndex="2" GridPane.rowIndex="3">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label alignment="CENTER_RIGHT" layoutX="10.0" layoutY="17.0" prefHeight="26.0" prefWidth="193.0" text="Price Exclusive of VAT" GridPane.rowIndex="5">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label fx:id="lblVatExclsv" alignment="CENTER_RIGHT" layoutX="119.0" layoutY="17.0" prefHeight="17.0" prefWidth="179.0" text="10000.00" GridPane.columnIndex="2" GridPane.rowIndex="5">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label alignment="CENTER_RIGHT" layoutX="10.0" layoutY="35.0" prefHeight="26.0" prefWidth="197.0" text="less: Discount" GridPane.rowIndex="6">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label fx:id="lblDiscount" alignment="CENTER_RIGHT" layoutX="119.0" layoutY="35.0" prefHeight="17.0" prefWidth="191.0" text="10000.00" GridPane.columnIndex="2" GridPane.rowIndex="6">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label alignment="CENTER_RIGHT" layoutX="10.0" layoutY="32.0" prefHeight="26.0" prefWidth="200.0" text="NET Sales w/o VAT" GridPane.rowIndex="7">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label alignment="CENTER_RIGHT" layoutX="10.0" layoutY="52.0" prefHeight="26.0" prefWidth="191.0" text="Add: VAT" GridPane.rowIndex="8">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label alignment="CENTER_RIGHT" layoutX="10.0" layoutY="12.0" prefHeight="35.0" prefWidth="192.0" text="Total Amount Due" GridPane.rowIndex="10">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="15.0" />
+                                             </font>
+                                          </Label>
+                                          <Label fx:id="lblNetSales" alignment="CENTER_RIGHT" layoutX="143.0" layoutY="55.0" prefHeight="17.0" prefWidth="173.0" text="10000.00" GridPane.columnIndex="2" GridPane.rowIndex="7">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label fx:id="lblAddVat" alignment="CENTER_RIGHT" layoutX="143.0" layoutY="77.0" prefHeight="17.0" prefWidth="171.0" text="10000.00" GridPane.columnIndex="2" GridPane.rowIndex="8">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label fx:id="lblAmountDue" alignment="CENTER_RIGHT" prefHeight="30.0" prefWidth="169.0" text="10,000,000.00" GridPane.columnIndex="2" GridPane.rowIndex="10">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="16.0" />
+                                             </font>
+                                             <padding>
+                                                <Insets right="5.0" />
+                                             </padding>
+                                             <GridPane.margin>
+                                                <Insets left="5.0" />
+                                             </GridPane.margin>
+                                          </Label>
+                                          <Label fx:id="lblOrderNo" alignment="CENTER" prefHeight="23.0" prefWidth="170.0" text="M0012000000001" GridPane.columnIndex="2">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                             <GridPane.margin>
+                                                <Insets />
+                                             </GridPane.margin>
+                                          </Label>
+                                          <Label fx:id="lblTranStat" alignment="CENTER" prefHeight="23.0" prefWidth="173.0" text="CLOSED" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                             <GridPane.margin>
+                                                <Insets />
+                                             </GridPane.margin>
+                                          </Label>
+                                          <Label alignment="CENTER_RIGHT" prefHeight="26.0" prefWidth="204.0" text="Status:" GridPane.rowIndex="1">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Label alignment="CENTER_RIGHT" prefHeight="26.0" prefWidth="204.0" text="Transaction No:">
+                                             <font>
+                                                <Font name="Courier New Bold Italic" size="12.0" />
+                                             </font>
+                                          </Label>
+                                          <Separator prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="9">
+                                             <GridPane.margin>
+                                                <Insets top="15.0" />
+                                             </GridPane.margin>
+                                          </Separator>
+                                          <Separator prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+                                             <GridPane.margin>
+                                                <Insets bottom="15.0" />
+                                             </GridPane.margin>
+                                          </Separator>
+                                       </children>
+                                    </GridPane>
+                                    <Separator layoutX="441.0" layoutY="7.0" orientation="VERTICAL" prefHeight="200.0" AnchorPane.bottomAnchor="5.0" AnchorPane.topAnchor="2.0" />
+                                    <Separator layoutX="733.0" layoutY="-2.0" orientation="VERTICAL" prefHeight="200.0" prefWidth="0.0" AnchorPane.bottomAnchor="5.0" AnchorPane.topAnchor="2.0" />
+                                 </children>
+                              </AnchorPane>
+                           </bottom>
+                           <center>
+                              <AnchorPane prefHeight="268.0" prefWidth="1060.0" BorderPane.alignment="CENTER">
+                                 <children>
+                                    <TableView fx:id="tblSalesMaster" layoutX="4.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="223.0" minWidth="1040.0" onMouseClicked="#tblSalesMaster_Click" prefHeight="263.0" prefWidth="1041.0" style="-fx-border-color: Black;" stylesheets="@../style/tableview.css" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="4.0" AnchorPane.topAnchor="0.0">
+                                       <columns>
+                                          <TableColumn fx:id="index01" editable="false" maxWidth="35.0" minWidth="35.0" prefWidth="35.0" resizable="false" sortable="false" text="No." />
+                                          <TableColumn fx:id="index02" editable="false" maxWidth="125.0" minWidth="125.0" prefWidth="125.0" resizable="false" sortable="false" text="Barcode" />
+                                          <TableColumn fx:id="index03" editable="false" maxWidth="200.0" minWidth="168.0" prefWidth="168.0" resizable="false" sortable="false" text="Description" />
+                                          <TableColumn fx:id="index04" editable="false" maxWidth="120.0" minWidth="120.0" prefWidth="120.0" resizable="false" sortable="false" text="Inv. Type" />
+                                          <TableColumn fx:id="index05" editable="false" maxWidth="120.0" minWidth="120.0" prefWidth="120.0" resizable="false" sortable="false" text="Brand" />
+                                          <TableColumn fx:id="index06" editable="false" maxWidth="80.0" minWidth="70.0" prefWidth="70.0" resizable="false" sortable="false" text="QOH" />
+                                          <TableColumn fx:id="index07" editable="false" maxWidth="80.0" minWidth="70.0" prefWidth="70.0" resizable="false" sortable="false" text="Unit Price" />
+                                          <TableColumn fx:id="index08" editable="false" maxWidth="108.0" minWidth="90.0" prefWidth="90.0" resizable="false" sortable="false" text="Order" />
+                                          <TableColumn fx:id="index09" editable="false" maxWidth="80.0" minWidth="80.0" resizable="false" sortable="false" text="Disccount" />
+                                          <TableColumn fx:id="index10" editable="false" maxWidth="80.0" minWidth="80.0" resizable="false" sortable="false" text="Addtl Disc." />
+                                          <TableColumn fx:id="index11" editable="false" maxWidth="80.0" minWidth="80.0" resizable="false" sortable="false" text="Total" />
+                                       </columns>
+                                    </TableView>
+                                 </children>
+                              </AnchorPane>
+                           </center>
+                        </BorderPane>
+                     </children>
+                  </StackPane>
+               </center>
+               <left>
+                  <AnchorPane maxWidth="-Infinity" prefHeight="549.0" prefWidth="100.0" style="-fx-background-color: gray;" BorderPane.alignment="CENTER">
+                     <children>
+                        <Button fx:id="cmdButton05" contentDisplay="TOP" mnemonicParsing="false" prefHeight="60.0" prefWidth="100.0" text="Save" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <font>
+                              <Font name="Arial" size="12.0" />
+                           </font>
+                           <graphic>
+                              <FontAwesomeIconView glyphName="SAVE" size="20" />
+                           </graphic>
+                        </Button>
+                        <Button fx:id="cmdButton06" contentDisplay="TOP" layoutY="60.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="100.0" text="Search" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="60.0">
+                           <font>
+                              <Font name="Arial" size="12.0" />
+                           </font>
+                           <graphic>
+                              <FontAwesomeIconView glyphName="SEARCH" size="20" />
+                           </graphic>
+                        </Button>
+                        <Button fx:id="cmdButton07" contentDisplay="TOP" layoutY="120.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="100.0" text="Cancel" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="180.0">
+                           <font>
+                              <Font name="Arial" size="12.0" />
+                           </font>
+                           <graphic>
+                              <FontAwesomeIconView glyphName="SIGN_OUT" size="20" />
+                           </graphic>
+                        </Button>
+                        <Button fx:id="cmdButton01" contentDisplay="TOP" mnemonicParsing="false" prefHeight="60.0" prefWidth="99.0" text="Browse" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <font>
+                              <Font name="Arial" size="12.0" />
+                           </font>
+                           <graphic>
+                              <FontAwesomeIconView glyphName="FOLDER_OPEN" size="20" />
+                           </graphic>
+                        </Button>
+                        <Button fx:id="cmdButton02" contentDisplay="TOP" layoutY="60.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="99.0" text="New" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="60.0">
+                           <font>
+                              <Font name="Arial" size="12.0" />
+                           </font>
+                           <graphic>
+                              <FontAwesomeIconView glyphName="FILE_ALT" size="20" />
+                           </graphic>
+                        </Button>
+                        <Button fx:id="cmdButton08" contentDisplay="TOP" layoutY="180.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="99.0" text="Pay" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="180.0">
+                           <font>
+                              <Font name="Arial" size="12.0" />
+                           </font>
+                           <graphic>
+                              <FontAwesomeIconView glyphName="PAYPAL" size="20" />
+                           </graphic>
+                        </Button>
+                        <Button fx:id="cmdButton09" contentDisplay="TOP" layoutY="240.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="99.0" text="Void" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="240.0">
+                           <font>
+                              <Font name="Arial" size="12.0" />
+                           </font>
+                           <graphic>
+                              <FontAwesomeIconView glyphName="BAN" size="20" />
+                           </graphic>
+                        </Button>
+                        <Button fx:id="cmdButton10" contentDisplay="TOP" layoutY="120.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="99.0" text="Del.Item" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="120.0">
+                           <font>
+                              <Font name="Arial" size="12.0" />
+                           </font>
+                           <graphic>
+                              <FontAwesomeIconView glyphName="MINUS" size="20" />
+                           </graphic>
+                        </Button>
+                        <Button fx:id="cmdButton03" contentDisplay="TOP" layoutX="10.0" layoutY="70.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="99.0" text="Update" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="120.0">
+                           <font>
+                              <Font name="Arial" size="12.0" />
+                           </font>
+                           <graphic>
+                              <FontAwesomeIconView glyphName="EDIT" size="20" />
+                           </graphic>
+                        </Button>
+                     </children>
+                  </AnchorPane>
+               </left>
+               <top>
+                  <AnchorPane prefHeight="25.0" BorderPane.alignment="CENTER">
+                     <children>
+                        <MenuBar AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <menus>
+                              <Menu mnemonicParsing="false" text="File">
+                                 <items>
+                                    <MenuItem fx:id="mnuEndShift" mnemonicParsing="false" text="End Shift" />
+                                    <MenuItem fx:id="mnuNewDay" mnemonicParsing="false" text="Declare New Day" />
+                                    <MenuItem fx:id="mnuCashDrawer" mnemonicParsing="false" text="Cash Drawer" />
+                                    <MenuItem fx:id="mnuLogout" mnemonicParsing="false" text="Logout Account" />
+                                 </items>
+                              </Menu>
+                              <Menu mnemonicParsing="false" text="Administrator">
+                                 <items>
+                                    <MenuItem fx:id="mnuCancelInvoice" mnemonicParsing="false" text="Cancel Invoice" />
+                                    <MenuItem fx:id="mnuReprintInvoice" mnemonicParsing="false" text="Reprint Invoice" />
+                                 </items>
+                              </Menu>
+                           </menus>
+                        </MenuBar>
+                     </children>
+                  </AnchorPane>
+               </top>
+            </BorderPane>
+         </children>
+      </StackPane>
+   </children>
+</AnchorPane>

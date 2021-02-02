@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="acRoot" prefHeight="358.0" prefWidth="494.0" stylesheets="@../../style/modifyOrderStyle.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <StackPane prefHeight="33.0" prefWidth="484.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <AnchorPane prefHeight="35.0" prefWidth="484.0" style="-fx-background-color: black;">
+               <children>
+                  <Separator minHeight="1.0" prefHeight="1.0" style="-fx-background-color: orange;" AnchorPane.bottomAnchor="1.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+                  <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="5.0">
+                     <image>
+                        <Image url="@../../style/logo.png" />
+                     </image>
+                  </ImageView>
+                  <Label layoutX="50.0" layoutY="8.0" text="Parts" textFill="WHITE" AnchorPane.leftAnchor="35.0" AnchorPane.topAnchor="6.0">
+                     <font>
+                        <Font name="System Bold" size="13.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+         </children>
+      </StackPane>
+      <GridPane layoutX="43.0" layoutY="60.0" prefHeight="260.0" prefWidth="410.0" AnchorPane.leftAnchor="42.0" AnchorPane.rightAnchor="42.0" AnchorPane.topAnchor="59.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="117.0" minWidth="10.0" prefWidth="92.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="182.0" minWidth="111.0" prefWidth="111.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="113.0" minWidth="100.0" prefWidth="113.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="100.0" minWidth="100.0" prefWidth="100.0" />
+            <ColumnConstraints />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="35.0" vgrow="ALWAYS" />
+          <RowConstraints minHeight="10.0" prefHeight="35.0" vgrow="ALWAYS" />
+            <RowConstraints minHeight="10.0" prefHeight="35.0" vgrow="ALWAYS" />
+            <RowConstraints minHeight="10.0" prefHeight="35.0" vgrow="ALWAYS" />
+            <RowConstraints minHeight="10.0" prefHeight="35.0" vgrow="ALWAYS" />
+            <RowConstraints minHeight="10.0" prefHeight="35.0" vgrow="ALWAYS" />
+            <RowConstraints minHeight="10.0" prefHeight="35.0" vgrow="ALWAYS" />
+            <RowConstraints maxHeight="61.0" minHeight="0.0" prefHeight="13.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="81.0" minHeight="10.0" prefHeight="35.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label prefHeight="17.0" prefWidth="176.0" text="Bar Code">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font></Label>
+            <Label prefHeight="17.0" prefWidth="176.0" text="Description" GridPane.rowIndex="1">
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font></Label>
+            <Label prefHeight="17.0" prefWidth="176.0" text="Unit Price" GridPane.rowIndex="2" />
+            <Label prefHeight="17.0" prefWidth="176.0" text="Qty On Hand" GridPane.rowIndex="3" />
+            <Label centerShape="false" prefHeight="17.0" prefWidth="217.0" text="Quantity" GridPane.rowIndex="4" />
+            <Label prefHeight="17.0" prefWidth="176.0" text="Disc. Rate" GridPane.rowIndex="5" />
+            <Label prefHeight="17.0" prefWidth="176.0" text="Addt'l Disc." GridPane.rowIndex="6" />
+            <TextField fx:id="txtField02" minHeight="30.0" prefHeight="30.0" prefWidth="297.0" promptText="Quick Search" GridPane.columnIndex="1" GridPane.columnSpan="4" />
+            <TextField fx:id="txtField03" minHeight="30.0" prefHeight="30.0" promptText="Quick Search" GridPane.columnIndex="1" GridPane.columnSpan="4" GridPane.rowIndex="1" />
+            <TextField fx:id="txtField04" alignment="CENTER_RIGHT" editable="false" minHeight="30.0" prefHeight="30.0" text="100.00" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <TextField fx:id="txtField05" alignment="CENTER_RIGHT" editable="false" minHeight="30.0" prefHeight="30.0" text="10" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <TextField fx:id="txtField06" alignment="CENTER_RIGHT" minHeight="30.0" prefHeight="30.0" text="10" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+            <TextField fx:id="txtField07" alignment="CENTER_RIGHT" minHeight="30.0" prefHeight="30.0" text="0.00" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <TextField fx:id="txtField08" alignment="CENTER_RIGHT" minHeight="30.0" prefHeight="30.0" text="0.00" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+            <Button fx:id="btnOkay" mnemonicParsing="false" prefHeight="35.0" prefWidth="114.0" text="Okay" GridPane.columnIndex="1" GridPane.rowIndex="8" />
+            <Button fx:id="btnDelete" mnemonicParsing="false" prefHeight="35.0" prefWidth="117.0" text="Delete" GridPane.columnIndex="2" GridPane.rowIndex="8" />
+            <Button fx:id="btnClose" mnemonicParsing="false" prefHeight="35.0" prefWidth="112.0" text="Cancel" GridPane.columnIndex="3" GridPane.rowIndex="8" />
+         </children>
+      </GridPane>
+   </children>
+   <padding>
+      <Insets bottom="10.0" />
+   </padding>
+</AnchorPane>

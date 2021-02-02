@@ -1,0 +1,3757 @@
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+  1 200000000002     195.00    195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+  1 200000000003     200.00    200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+  1 200000000004     175.00    175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+  1 200000000005     230.00    230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: 5
+
+ Sub-Total                      1020.00
+                          -------------
+ Price Exclusive of VAT          910.71
+                          -------------
+ Net Sales (w/o VAT)             910.71
+ Add: VAT                        109.29
+                          -------------
+ TOTAL AMOUNT DUE :             1020.00
+
+ Cash                           1100.00
+
+ CHANGE           :               80.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Transaction No.: 0000000002            
+ SI No.: 0000000001                     
+ Date/Time: 2020-07-31 14:49:27            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+  1 200000000002     195.00    195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+  1 200000000003     200.00    200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+  1 200000000004     175.00    175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+  1 200000000005     230.00    230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: 5
+
+ Sub-Total                      1020.00
+                          -------------
+ Price Exclusive of VAT          910.71
+                          -------------
+ Net Sales (w/o VAT)             910.71
+ Add: VAT                        109.29
+                          -------------
+ TOTAL AMOUNT DUE :             1020.00
+
+ Cash                           1100.00
+
+ CHANGE           :               80.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000001                     
+ Transaction No.: 0000000001            
+ Date/Time: 2020-07-31 15:04:53            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+  1 200000000002     195.00    195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+  1 200000000003     200.00    200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+  1 200000000004     175.00    175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+  1 200000000005     230.00    230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: 5
+
+ Sub-Total                      1020.00
+                          -------------
+ Price Exclusive of VAT          910.71
+                          -------------
+ Net Sales (w/o VAT)             910.71
+ Add: VAT                        109.29
+                          -------------
+ TOTAL AMOUNT DUE :             1020.00
+
+ Cash                           1020.00
+
+ CHANGE           :                0.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+
+ Cust Name: Cuison, Bernard Ramos       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000002                     
+ Transaction No.: 0000000004            
+ Date/Time: 2020-07-31 15:15:38            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Y-READING                
+
+DATE    : 2020-07-31                    
+CASHIER : CUISON, MICHAEL TORRES        
+TERMINAL: 01                            
+
+****************************************
+
+ Shift Start : 2020-07-31 15:01:28      
+ Shift End   :                          
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+  Beginning Balance :              0.00
+  Ending Balance    :              0.00
+
+ GROSS SALES                    1020.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                         0.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                1000.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Total Sales for the day          0.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 15:46:58
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               X-READING                
+
+DATE    : 2020-07-31                    
+CASHIER : CUISON, MICHAEL TORRES        
+TERMINAL: 01                            
+
+****************************************
+
+ Shift Start : 2020-07-31 15:01:28      
+ Shift End   : 2020-07-31 15:56:33      
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+  Beginning Balance :              0.00
+  Ending Balance    :              0.00
+
+ GROSS SALES                    1020.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                         0.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                1000.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Total Sales for the day          0.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 15:56:33
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Z-READING                
+
+DATE    : 2020-07-31 to 2020-07-31      
+TERMINAL: 01                            
+
+****************************************
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+ GROSS SALES                    1020.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                         0.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+  Cashbox Amount                1000.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :              0.00
+  Ending Balance    :              0.00
+----------------------------------------
+         Z COUNTER:                   1
+  ACC. GRAND TOTAL:                0.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 15:56:34
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               X-READING                
+
+DATE    : 2020-07-31                    
+CASHIER : CUISON, MICHAEL TORRES        
+TERMINAL: 01                            
+
+****************************************
+
+ Shift Start : 2020-07-31 15:01:28      
+ Shift End   : 2020-07-31 15:59:29      
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+  Beginning Balance :              0.00
+  Ending Balance    :              0.00
+
+ GROSS SALES                    1020.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                         0.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                1000.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Total Sales for the day          0.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 15:59:29
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Z-READING                
+
+DATE    : 2020-07-31 to 2020-07-31      
+TERMINAL: 01                            
+
+****************************************
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+ GROSS SALES                    1020.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                         0.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+  Cashbox Amount                1000.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :              0.00
+  Ending Balance    :              0.00
+----------------------------------------
+         Z COUNTER:                   2
+  ACC. GRAND TOTAL:                0.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 15:59:29
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Y-READING                
+
+DATE    : 2020-07-31                    
+CASHIER : CUISON, MICHAEL TORRES        
+TERMINAL: 01                            
+
+****************************************
+
+ Shift Start : 2020-07-31 15:01:28      
+ Shift End   : 2020-07-31 15:59:29      
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+  Beginning Balance :              0.00
+  Ending Balance    :           1020.00
+
+ GROSS SALES                    2040.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                      1020.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales               1020.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                1000.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Total Sales for the day       1020.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 16:01:10
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Y-READING                
+
+DATE    : 2020-07-31                    
+CASHIER : CUISON, MICHAEL TORRES        
+TERMINAL: 01                            
+
+****************************************
+
+ Shift Start : 2020-07-31 15:01:28      
+ Shift End   : 2020-07-31 15:59:29      
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+  Beginning Balance :              0.00
+  Ending Balance    :           1020.00
+
+ GROSS SALES                    2040.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                      1020.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales               1020.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                2020.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Total Sales for the day       1020.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 16:05:24
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               X-READING                
+
+DATE    : 2020-07-31                    
+CASHIER : CUISON, MICHAEL TORRES        
+TERMINAL: 01                            
+
+****************************************
+
+ Shift Start : 2020-07-31 15:01:28      
+ Shift End   : 2020-07-31 16:08:26      
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+  Beginning Balance :              0.00
+  Ending Balance    :           1020.00
+
+ GROSS SALES                    2040.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                      1020.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales               1020.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                2020.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Total Sales for the day       1020.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 16:08:26
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Z-READING                
+
+DATE    : 2020-07-31 to 2020-07-31      
+TERMINAL: 01                            
+
+****************************************
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+ GROSS SALES                    2040.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                      1020.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+  Cashbox Amount                2020.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :              0.00
+  Ending Balance    :           1020.00
+----------------------------------------
+         Z COUNTER:                   3
+  ACC. GRAND TOTAL:             1020.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 16:08:26
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Y-READING                
+
+DATE    : 2020-07-31                    
+CASHIER : CUISON, MICHAEL TORRES        
+TERMINAL: 01                            
+
+****************************************
+
+ Shift Start : 2020-07-31 15:01:28      
+ Shift End   : 2020-07-31 16:08:26      
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000002               
+
+  Beginning Balance :              0.00
+  Ending Balance    :           1020.00
+
+ GROSS SALES                    2040.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                      1020.00
+
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+ VAT-Exempt Sales               1020.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       1000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                2020.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Total Sales for the day       1020.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 16:12:48
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+  1 200000000002     195.00    195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+  1 200000000004     175.00    175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+  1 200000000003     200.00    200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+  1 200000000005     230.00    230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: 5
+
+ Sub-Total                      1020.00
+                          -------------
+ Price Exclusive of VAT          910.71
+                          -------------
+ Net Sales (w/o VAT)             910.71
+ Add: VAT                        109.29
+                          -------------
+ TOTAL AMOUNT DUE :             1020.00
+
+ Cash                           1100.00
+
+ CHANGE           :               80.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   910.71
+ VAT Amount                      109.29
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000001                     
+ Transaction No.: 0000000001            
+ Date/Time: 2020-07-31 16:18:13            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+                          -------------
+ Net Sales (w/o VAT)            -910.71
+ Add: VAT                       -109.29
+                          -------------
+ TOTAL AMOUNT DUE :            -1020.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -910.71
+ VAT Amount                     -109.29
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000001             
+ Transaction No.: 0000000003            
+ Date/Time: 2020-07-31 16:18:24            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Y-READING                
+
+DATE    : 2020-07-31                    
+CASHIER : CUISON, MICHAEL TORRES        
+TERMINAL: 01                            
+
+****************************************
+
+ Shift Start : 2020-07-31 16:17:09      
+ Shift End   :                          
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000001               
+
+  Beginning Balance :              0.00
+  Ending Balance    :              0.00
+
+ GROSS SALES                    1020.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                         0.00
+
+ VATable Sales                     0.00
+ VAT Amount                        0.00
+ VAT-Exempt Sales               1020.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       2000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                2000.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Total Sales for the day          0.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 16:19:18
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Y-READING                
+
+DATE    : 2020-07-31                    
+CASHIER : CUISON, MICHAEL TORRES        
+TERMINAL: 01                            
+
+****************************************
+
+ Shift Start : 2020-07-31 16:17:09      
+ Shift End   :                          
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000001               
+
+  Beginning Balance :              0.00
+  Ending Balance    :              0.00
+
+ GROSS SALES                    1020.00
+ Less : Regular Discnt             0.00
+        Returns                 1020.00
+                          -------------
+ NET SALES                         0.00
+
+ VATable Sales                     0.00
+ VAT Amount                        0.00
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       2000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                2000.00
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Total Sales for the day          0.00
+----------------------------------------
+****************************************
+/end-of-summary - 2020-07-31 16:23:42
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+  1 200000000002     195.00    195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+  1 200000000003     200.00    200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+----------------------------------------
+ No. of Items: 3
+
+ Sub-Total                       615.00
+                          -------------
+ Price Exclusive of VAT          549.11
+ Less: 5.0% Discount              27.46
+                          -------------
+ Net Sales (w/o VAT)             521.65
+ Add: VAT                         62.60
+                          -------------
+ TOTAL AMOUNT DUE :              584.25
+
+ Cash                            600.00
+
+ CHANGE           :               15.75
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   521.65
+ VAT Amount                       62.60
+
+ Cust Name: Casilang, Jovan Ali Parajas 
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000002                     
+ Transaction No.: 0000000004            
+ Date/Time: 2020-07-31 16:25:58            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+----------------------------------------
+ No. of Items: 1
+
+ Sub-Total                       199.00
+                          -------------
+ Price Exclusive of VAT          177.68
+                          -------------
+ Net Sales (w/o VAT)             177.68
+ Add: VAT                         21.32
+                          -------------
+ TOTAL AMOUNT DUE :              199.00
+
+ Cash                            200.00
+
+ CHANGE           :                1.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   177.68
+ VAT Amount                       21.32
+
+ Cust Name: Yambao, Jeffrey Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000003                     
+ Transaction No.: 0000000005            
+ Date/Time: 2020-07-31 16:30:48            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               X-READING                
+
+DATE    : 2020-07-31                    
+CASHIER : CUISON, MICHAEL TORRES        
+TERMINAL: 01                            
+
+****************************************
+
+ Shift Start : 2020-07-31 16:17:09      
+ Shift End   : 2020-08-01 08:30:04      
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000003               
+
+  Beginning Balance :              0.00
+  Ending Balance    :            783.25
+
+ GROSS SALES                    1834.00
+ Less : Regular Discnt            30.75
+        Returns                 1020.00
+                          -------------
+ NET SALES                       783.25
+
+ VATable Sales                   699.33
+ VAT Amount                       83.92
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       2000.00
+  Withdrawal                       0.00
+
+  Cashbox Amount                2783.25
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Total Sales for the day        783.25
+----------------------------------------
+****************************************
+/end-of-summary - 2020-08-01 08:30:04
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+               Z-READING                
+
+DATE    : 2020-07-31 to 2020-07-31      
+TERMINAL: 01                            
+
+****************************************
+
+ Beginning SI: 0000000001               
+ Ending SI   : 0000000003               
+
+ GROSS SALES                    1834.00
+ Less : Regular Discnt            30.75
+        Returns                 1020.00
+                          -------------
+ NET SALES                       783.25
+
+ VATable Sales                   699.33
+ VAT Amount                       83.92
+ VAT-Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+
+ Collection Info:        
+  Deposit                       2000.00
+  Withdrawal                       0.00
+  Cashbox Amount                2783.25
+  Cheque                           0.00
+  Credit Card                      0.00
+  Gift Cheque                      0.00
+  Company Accounts                 0.00
+----------------------------------------
+  Beginning Balance :              0.00
+  Ending Balance    :            783.25
+----------------------------------------
+         Z COUNTER:                   1
+  ACC. GRAND TOTAL:              783.25
+----------------------------------------
+****************************************
+/end-of-summary - 2020-08-01 08:30:05
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ 10 200000000003     200.00   2000.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+----------------------------------------
+ No. of Items: 10
+
+ Sub-Total                      1890.00
+                          -------------
+ Price Exclusive of VAT         1687.50
+                          -------------
+ Net Sales (w/o VAT)            1687.50
+ Add: VAT                        202.50
+                          -------------
+ TOTAL AMOUNT DUE :             1890.00
+
+ Cash                           2000.00
+
+ CHANGE           :              110.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  1687.50
+ VAT Amount                      202.50
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000004                     
+ Transaction No.: 0000000011            
+ Date/Time: 2020-08-01 08:46:22            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ 10 200000000003     200.00   2000.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+----------------------------------------
+ No. of Items: 10
+
+ Sub-Total                      1890.00
+                          -------------
+ Price Exclusive of VAT         1687.50
+                          -------------
+ Net Sales (w/o VAT)            1687.50
+ Add: VAT                        202.50
+                          -------------
+ TOTAL AMOUNT DUE :             1890.00
+
+ Cash                           2000.00
+
+ CHANGE           :              110.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  1687.50
+ VAT Amount                      202.50
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000004                     
+ Transaction No.: 0000000012            
+ Date/Time: 2020-08-01 08:46:22            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ 10 200000000003     200.00   2000.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+----------------------------------------
+ No. of Items: 10
+
+ Sub-Total                      1890.00
+                          -------------
+ Price Exclusive of VAT         1687.50
+                          -------------
+ Net Sales (w/o VAT)            1687.50
+ Add: VAT                        202.50
+                          -------------
+ TOTAL AMOUNT DUE :             1890.00
+
+ Cash                           2000.00
+
+ CHANGE           :              110.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  1687.50
+ VAT Amount                      202.50
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000004                     
+ Transaction No.: 0000000013            
+ Date/Time: 2020-08-01 08:46:22            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ 10 200000000003     200.00   2000.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+----------------------------------------
+ No. of Items: 10
+
+ Sub-Total                      1890.00
+                          -------------
+ Price Exclusive of VAT         1687.50
+                          -------------
+ Net Sales (w/o VAT)            1687.50
+ Add: VAT                        202.50
+                          -------------
+ TOTAL AMOUNT DUE :             1890.00
+
+ Cash                           2000.00
+
+ CHANGE           :              110.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  1687.50
+ VAT Amount                      202.50
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000004                     
+ Transaction No.: 0000000014            
+ Date/Time: 2020-08-01 08:46:22            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ 10 200000000003     200.00   2000.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+      RAINY DAY DISC.                   
+       5.0%                     (100.00)
+----------------------------------------
+ No. of Items: 10
+
+ Sub-Total                      1890.00
+                          -------------
+ Price Exclusive of VAT         1687.50
+                          -------------
+ Net Sales (w/o VAT)            1687.50
+ Add: VAT                        202.50
+                          -------------
+ TOTAL AMOUNT DUE :             1890.00
+
+ Cash                           2000.00
+
+ CHANGE           :              110.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  1687.50
+ VAT Amount                      202.50
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000004                     
+ Transaction No.: 0000000015            
+ Date/Time: 2020-08-01 08:46:22            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ 10 200000000003     200.00   2000.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+     RAINY DAY DISC.                    
+      5.0%                     (100.00)
+----------------------------------------
+ No. of Items: 10
+
+ Sub-Total                      1890.00
+                          -------------
+ Price Exclusive of VAT         1687.50
+                          -------------
+ Net Sales (w/o VAT)            1687.50
+ Add: VAT                        202.50
+                          -------------
+ TOTAL AMOUNT DUE :             1890.00
+
+ Cash                           2000.00
+
+ CHANGE           :              110.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  1687.50
+ VAT Amount                      202.50
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000004                     
+ Transaction No.: 0000000016            
+ Date/Time: 2020-08-01 08:46:22            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ 10 200000000003     200.00   2000.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+     RAINY DAY DISC.                    
+       5.0%                  (100.00)
+       10.00                  (10.00)
+----------------------------------------
+ No. of Items: 10
+
+ Sub-Total                      1890.00
+                          -------------
+ Price Exclusive of VAT         1687.50
+                          -------------
+ Net Sales (w/o VAT)            1687.50
+ Add: VAT                        202.50
+                          -------------
+ TOTAL AMOUNT DUE :             1890.00
+
+ Cash                           2000.00
+
+ CHANGE           :              110.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  1687.50
+ VAT Amount                      202.50
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000004                     
+ Transaction No.: 0000000017            
+ Date/Time: 2020-08-01 08:46:22            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ 10 200000000003     200.00   2000.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+     RAINY DAY DISC.                    
+       5.0%                  (100.00)
+       10.00                  (10.00)
+----------------------------------------
+ No. of Items: 10
+
+ Sub-Total                      1890.00
+                          -------------
+ Price Exclusive of VAT         1687.50
+                          -------------
+ Net Sales (w/o VAT)            1687.50
+ Add: VAT                        202.50
+                          -------------
+ TOTAL AMOUNT DUE :             1890.00
+
+ Cash                           2000.00
+
+ CHANGE           :              110.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  1687.50
+ VAT Amount                      202.50
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000004                     
+ Transaction No.: 0000000018            
+ Date/Time: 2020-08-01 08:46:22            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ 10 200000000003     200.00   2000.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+     RAINY DAY DISC.                    
+      5.0%                   (100.00)
+      10.00                   (10.00)
+----------------------------------------
+ No. of Items: 10
+
+ Sub-Total                      1890.00
+                          -------------
+ Price Exclusive of VAT         1687.50
+                          -------------
+ Net Sales (w/o VAT)            1687.50
+ Add: VAT                        202.50
+                          -------------
+ TOTAL AMOUNT DUE :             1890.00
+
+ Cash                           2000.00
+
+ CHANGE           :              110.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  1687.50
+ VAT Amount                      202.50
+
+ Cust Name: Sayson, Marlon Agbuya       
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000004                     
+ Transaction No.: 0000000019            
+ Date/Time: 2020-08-01 08:46:22            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+  1 200000000002     195.00    195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+  1 200000000003     200.00    200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+  1 200000000004     175.00    175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+  1 200000000005     230.00    230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: 5
+
+ Sub-Total                      1020.00
+                          -------------
+ Price Exclusive of VAT          910.71
+ Less: 10.0% Discount             91.07
+ Less: Discount                   44.64
+                          -------------
+ Net Sales (w/o VAT)             775.00
+ Add: VAT                         93.00
+                          -------------
+ TOTAL AMOUNT DUE :              868.00
+
+ Cash                           1000.00
+
+ CHANGE           :              132.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   775.00
+ VAT Amount                       93.00
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000005                     
+ Transaction No.: 0000000020            
+ Date/Time: 2020-08-01 11:25:40            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+             SALES INVOICE              ****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+  1 200000000002     195.00    195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+  1 200000000003     200.00    200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+  1 200000000004     175.00    175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+  1 200000000005     230.00    230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: 5
+
+ Gross Sales                    1020.00
+ Less: Discount                  152.00
+                          -------------
+ VATable Sales                   868.00
+                          -------------
+ Net Vatable Sales               775.00
+ Add: VAT                         93.00
+                          -------------
+ TOTAL AMOUNT DUE :              868.00
+
+ Cash                           1000.00
+
+ CHANGE           :              132.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   775.00
+ VAT Amount                       93.00
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000005                     
+ Transaction No.: 0000000031            
+ Date/Time: 2020-08-01 13:13:26            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+             SALES INVOICE              ****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+  1 200000000002     195.00    195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+  1 200000000003     200.00    200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+  1 200000000004     175.00    175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+  1 200000000005     230.00    230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: 5
+
+ Gross Sales                    1020.00
+ Less: Discount                  152.00
+                          -------------
+ VATable Sales                   868.00
+                          -------------
+ Net Vatable Sales               775.00
+ Add: VAT                         93.00
+                          -------------
+ TOTAL AMOUNT DUE :              868.00
+
+ Cash                           1000.00
+
+ CHANGE           :              132.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   775.00
+ VAT Amount                       93.00
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000005                     
+ Transaction No.: 0000000032            
+ Date/Time: 2020-08-01 13:28:42            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+             SALES INVOICE              
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+  1 200000000002     195.00    195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+  1 200000000003     200.00    200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+  1 200000000004     175.00    175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+  1 200000000005     230.00    230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: 5
+
+ Gross Sales                    1020.00
+ Less: Discount                  152.00
+                          -------------
+ VATable Sales                   868.00
+                          -------------
+ Net Vatable Sales               775.00
+ Add: VAT                         93.00
+                          -------------
+ TOTAL AMOUNT DUE :              868.00
+
+ Cash                           1000.00
+
+ CHANGE           :              132.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   775.00
+ VAT Amount                       93.00
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000005                     
+ Transaction No.: 0000000033            
+ Date/Time: 2020-08-01 13:32:16            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+                          -------------
+ Net Sales (w/o VAT)            -910.71
+ Add: VAT                       -109.29
+                          -------------
+ TOTAL AMOUNT DUE :            -1020.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -910.71
+ VAT Amount                     -109.29
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000034            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+                          -------------
+ Net Sales (w/o VAT)            -910.71
+ Add: VAT                       -109.29
+                          -------------
+ TOTAL AMOUNT DUE :            -1020.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -910.71
+ VAT Amount                     -109.29
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000035            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+                          -------------
+ Net Sales (w/o VAT)            -910.71
+ Add: VAT                       -109.29
+                          -------------
+ TOTAL AMOUNT DUE :            -1020.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -910.71
+ VAT Amount                     -109.29
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000036            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+                          -------------
+ Net Sales (w/o VAT)            -910.71
+ Add: VAT                       -109.29
+                          -------------
+ TOTAL AMOUNT DUE :            -1020.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -910.71
+ VAT Amount                     -109.29
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000037            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+                          -------------
+ Net Sales (w/o VAT)            -910.71
+ Add: VAT                       -109.29
+                          -------------
+ TOTAL AMOUNT DUE :            -1020.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -910.71
+ VAT Amount                     -109.29
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000038            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+                          -------------
+ Net Sales (w/o VAT)            -910.71
+ Add: VAT                       -109.29
+                          -------------
+ TOTAL AMOUNT DUE :            -1020.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -910.71
+ VAT Amount                     -109.29
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000039            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+                          -------------
+ Net Sales (w/o VAT)            -910.71
+ Add: VAT                       -109.29
+                          -------------
+ TOTAL AMOUNT DUE :            -1020.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -910.71
+ VAT Amount                     -109.29
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000040            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+ Less: Discount                   44.64
+                          -------------
+ Net Sales (w/o VAT)            -864.29
+ Add: VAT                       -103.71
+                          -------------
+ TOTAL AMOUNT DUE :             -968.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -864.29
+ VAT Amount                     -103.71
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000041            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+ Less: Discount                   44.64
+                          -------------
+ Net Sales (w/o VAT)            -864.29
+ Add: VAT                       -103.71
+                          -------------
+ TOTAL AMOUNT DUE :             -968.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -864.29
+ VAT Amount                     -103.71
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000042            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+ Less: Discount                   44.64
+                          -------------
+ Net Sales (w/o VAT)            -864.29
+ Add: VAT                       -103.71
+                          -------------
+ TOTAL AMOUNT DUE :             -968.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -864.29
+ VAT Amount                     -103.71
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000043            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+ Less: Discount                   44.64
+                          -------------
+ Net Sales (w/o VAT)            -864.29
+ Add: VAT                       -103.71
+                          -------------
+ TOTAL AMOUNT DUE :             -968.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -864.29
+ VAT Amount                     -103.71
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000044            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+ Less: Discount                   44.64
+                          -------------
+ Net Sales (w/o VAT)            -864.29
+ Add: VAT                       -103.71
+                          -------------
+ TOTAL AMOUNT DUE :             -968.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -864.29
+ VAT Amount                     -103.71
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000045            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+ Less: Discount                   44.64
+                          -------------
+ Net Sales (w/o VAT)            -864.29
+ Add: VAT                       -103.71
+                          -------------
+ TOTAL AMOUNT DUE :             -968.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -864.29
+ VAT Amount                     -103.71
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000046            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Price Exclusive of VAT         -910.71
+ Less: Discount                   44.64
+                          -------------
+ Net Sales (w/o VAT)            -864.29
+ Add: VAT                       -103.71
+                          -------------
+ TOTAL AMOUNT DUE :             -968.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -864.29
+ VAT Amount                     -103.71
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000047            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Less: Discount                  -52.00
+                          -------------
+ VATable Sales                  -968.00
+                          -------------
+ Net VATable Sales              -864.29
+ Add: VAT                       -103.71
+                          -------------
+ TOTAL AMOUNT DUE :             -968.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -864.29
+ VAT Amount                     -103.71
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000048            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Sub-Total                     -1020.00
+                          -------------
+ Less: Discount                 -152.00
+                          -------------
+ VATable Sales                  -868.00
+                          -------------
+ Net VATable Sales              -775.00
+ Add: VAT                        -93.00
+                          -------------
+ TOTAL AMOUNT DUE :             -868.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -775.00
+ VAT Amount                      -93.00
+
+ Cust Name: Cuison, Michael Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000005             
+ Transaction No.: 0000000049            
+ Date/Time: 2020-08-01 13:52:05            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+----------------------------------------
+ No. of Items: -1
+
+ Gross Sales                    -199.00
+                          -------------
+ VATable Sales                  -199.00
+                          -------------
+ Net VATable Sales              -177.68
+ Add: VAT                        -21.32
+                          -------------
+ TOTAL AMOUNT DUE :             -199.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -177.68
+ VAT Amount                      -21.32
+
+ Cust Name: Yambao, Jeffrey Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000003             
+ Transaction No.: 0000000051            
+ Date/Time: 2020-08-01 15:02:45            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+                 RETURN                 
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+----------------------------------------
+ No. of Items: -1
+
+ Gross Sales                    -199.00
+                          -------------
+ VATable Sales                  -199.00
+                          -------------
+ Net VATable Sales              -177.68
+ Add: VAT                        -21.32
+                          -------------
+ TOTAL AMOUNT DUE :             -199.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -177.68
+ VAT Amount                      -21.32
+
+ Cust Name: Yambao, Jeffrey Torres      
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000003             
+ Transaction No.: 0000000055            
+ Date/Time: 2020-08-01 15:02:45            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+             SALES INVOICE              
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+     REGULAR DISC.                      
+      5.0%                    (11.00)
+  1 200000000002     195.00    195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+  1 200000000003     200.00    200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+  1 200000000004     175.00    175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+  1 200000000005     230.00    230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: 5
+
+ Gross Sales                    1009.00
+ Less: Discount                  100.00
+                          -------------
+ VATable Sales                   909.00
+                          -------------
+ Net VATable Sales               811.61
+ Add: VAT                         97.39
+                          -------------
+ TOTAL AMOUNT DUE :              909.00
+
+ Cash                            950.00
+
+ CHANGE           :               41.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   811.61
+ VAT Amount                       97.39
+
+ Cust Name: Garcia, Jovan  Ali          
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000006                     
+ Transaction No.: 0000000059            
+ Date/Time: 2020-08-01 15:52:57            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+                 RETURN                 
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+ -1 200000000002     195.00   -195.00V
+    ENGINE OIL MULTIGRADE 0.8L
+ -1 200000000003     200.00   -200.00V
+    ENGINE OIL SJ40T (MONO) 1 L
+ -1 200000000004     175.00   -175.00V
+    ENGINE OIL 4T (MONO) 0.8;
+ -1 200000000005     230.00   -230.00V
+    HONDA BEAT OIL
+----------------------------------------
+ No. of Items: -5
+
+ Gross Sales                   -1009.00
+ Less: Discount                 -100.00
+                          -------------
+ VATable Sales                  -909.00
+                          -------------
+ Net VATable Sales              -811.61
+ Add: VAT                        -97.39
+                          -------------
+ TOTAL AMOUNT DUE :             -909.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -811.61
+ VAT Amount                      -97.39
+
+ Cust Name: Garcia, Jovan  Ali          
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000006             
+ Transaction No.: 0000000061            
+ Date/Time: 2020-08-01 15:56:10            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+             SALES INVOICE              
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+  1 200000000001     220.00    220.00V
+    ENGINE OIL MULTI GRADE 1 L
+     LOYALTY DISC. 3                    
+      10.0%                   (22.00)
+      50.00                   (50.00)
+----------------------------------------
+ No. of Items: 1
+
+ Gross Sales                     148.00
+                          -------------
+ VATable Sales                   148.00
+                          -------------
+ Net VATable Sales               132.14
+ Add: VAT                         15.86
+                          -------------
+ TOTAL AMOUNT DUE :              148.00
+
+ Cash                            150.00
+
+ CHANGE           :                2.00
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                   132.14
+ VAT Amount                       15.86
+
+ Cust Name: Dela Cruz, Edward Cerezo    
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ SI No.: 0000000007                     
+ Transaction No.: 0000000064            
+ Date/Time: 2020-08-01 16:20:57            
+****************************************
+
+   This serves as your SALES INVOICE.   
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------
+         ABC Trading - Dagupan          
+      Business Name, Incorporated       
+              Perez Blvd.               
+        Dagupan City, Pangasinan        
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+         MIN: XXXXXXXXXXXXXXXXX         
+         Serial No: XXXXXXXXXX          
+
+ Cashier: CUISON, MICHAEL TORRES        
+
+                 RETURN                 
+
+****************************************
+QTY DESCRIPTION      UPRICE    AMOUNT
+ -1 200000000001     220.00   -220.00V
+    ENGINE OIL MULTI GRADE 1 L
+     LOYALTY DISC. 3                    
+      10.0%                  (-22.00)
+      50.00                   (50.00)
+----------------------------------------
+ No. of Items: -1
+
+ Gross Sales                    -148.00
+                          -------------
+ VATable Sales                  -148.00
+                          -------------
+ Net VATable Sales              -132.14
+ Add: VAT                        -15.86
+                          -------------
+ TOTAL AMOUNT DUE :             -148.00
+
+----------------------------------------
+
+ VAT Exempt Sales                  0.00
+ Zero-Rated Sales                  0.00
+ VATable Sales                  -132.14
+ VAT Amount                      -15.86
+
+ Cust Name: Dela Cruz, Edward Cerezo    
+ Address:                               
+ TIN:                                   
+ Bus. Style:                            
+
+ Terminal No.: 01                       
+ Reference SI No.: 0000000007             
+ Transaction No.: 0000000065            
+ Date/Time: 2020-08-01 16:21:29            
+****************************************
+
+   Thank you, and please come again.    
+
+         RMJ Business Solutions         
+             32 Pogo grande             
+     Dagupan City, Pangasinan 2400      
+     VAT REG TIN: XXX-XXX-XXX-XXXXX     
+    ACCR NO.: XXXXXXXXXXXXXXXXXXXXXX    
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+    PTU NO.: XXXXXXXXXXXXXXXXXXXXXX     
+        Date Issued: XXXX-XX-XX         
+        Valid Until: XXXX-XX-XX         
+
+      THIS INVOICE SHALL BE VALID       
+   FOR FIVE(5) YEARS FROM THE DATE OF   
+           THE PERMT TO USE.            
+       ----- END OF RECEIPT -----       
+
+----------------------------------------

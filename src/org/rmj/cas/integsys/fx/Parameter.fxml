@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" style="-fx-border-color: black;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <StackPane prefHeight="150.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <BorderPane>
+               <left>
+                  <AnchorPane prefWidth="125.0" style="-fx-background-color: black;" stylesheets="@../style/Parameter.css" BorderPane.alignment="CENTER">
+                     <children>
+                        <Button alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#cmdBrand_Click" prefHeight="30.0" text="Brand" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="30.0" mnemonicParsing="false" onAction="#cmdCategory1_Click" prefHeight="30.0" text="Category" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="31.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="62.0" mnemonicParsing="false" onAction="#cmdCategory2_Click" prefHeight="30.0" text="Category 2" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="62.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="93.0" mnemonicParsing="false" onAction="#cmdCategory3_Click" prefHeight="30.0" text="Category 3" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="124.0" mnemonicParsing="false" onAction="#cmdCategory4_Click" prefHeight="30.0" text="Category 4" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="155.0" mnemonicParsing="false" onAction="#cmdColor_Click" prefHeight="30.0" text="Color" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="186.0" mnemonicParsing="false" onAction="#cmdCompany_Click" prefHeight="30.0" text="Company" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutX="5.0" layoutY="217.0" mnemonicParsing="false" onAction="#cmdInvLocation_Click" prefHeight="30.0" text="Inv. Location" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="248.0" mnemonicParsing="false" onAction="#cmdInvType_Click" prefHeight="30.0" text="Inv. Type" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="279.0" mnemonicParsing="false" onAction="#cmdMeasure_Click" prefHeight="30.0" text="Measurement" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutX="7.0" layoutY="310.0" mnemonicParsing="false" onAction="#cmdModel_Click" prefHeight="30.0" text="Model" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="341.0" mnemonicParsing="false" onAction="#cmdLabor_Click" prefHeight="30.0" text="Labor" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="403.0" mnemonicParsing="false" onAction="#cmdSalesPerson_Click" prefHeight="30.0" text="Sales Person" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="434.0" mnemonicParsing="false" onAction="#cmdSupplier_Click" prefHeight="30.0" text="Supplier" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="465.0" mnemonicParsing="false" onAction="#cmdTerm_Click" prefHeight="30.0" text="Term" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                        <Button contentDisplay="CENTER" layoutY="372.0" mnemonicParsing="false" onAction="#cmdPartners_Click" prefHeight="30.0" text="Partners" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Button>
+                     </children></AnchorPane>
+               </left>
+               <center>
+                  <AnchorPane fx:id="acWorkStation" style="-fx-background-color: gray;" BorderPane.alignment="CENTER" />
+               </center>
+               <top>
+                  <AnchorPane prefHeight="25.0" style="-fx-background-color: black;">
+                     <children>
+                        <Label alignment="CENTER" prefHeight="25.0" prefWidth="1024.0" text="Parameters" textFill="#c6c6c6" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                           <font>
+                              <Font name="Arial Bold" size="13.0" />
+                           </font>
+                           <padding>
+                              <Insets left="10.0" />
+                           </padding>
+                        </Label>
+                        <Separator layoutY="26.0" minHeight="1.0" minWidth="1024.0" prefHeight="0.0" style="-fx-background-color: orange;" AnchorPane.bottomAnchor="1.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+                     </children>
+                  </AnchorPane>
+               </top></BorderPane>
+         </children>
+      </StackPane>
+   </children>
+</AnchorPane>
