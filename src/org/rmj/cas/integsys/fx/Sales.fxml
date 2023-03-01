@@ -46,7 +46,7 @@
                                                 <Font name="Arial" size="11.0" />
                                              </font>
                                           </Label>
-                                          <Label fx:id="lblField02" layoutX="729.0" layoutY="17.0" prefHeight="17.0" prefWidth="333.0" text="Accreditation No: XXXXXXXXXXXXXXXXXXXX" textFill="WHITE" AnchorPane.topAnchor="17.0">
+                                          <Label fx:id="lblField02" layoutX="729.0" layoutY="17.0" prefHeight="17.0" prefWidth="99.0" text="Accreditation No: " textFill="WHITE" AnchorPane.topAnchor="17.0">
                                              <font>
                                                 <Font name="Arial" size="11.0" />
                                              </font>
@@ -61,6 +61,7 @@
                                                 <Font name="Arial" size="11.0" />
                                              </font>
                                           </Label>
+                                          <Label fx:id="lblAccredit" layoutX="828.0" layoutY="17.0" prefHeight="17.0" prefWidth="230.0" text="XXXXXXXXXXXXXXXXXXXX" />
                                        </children>
                                     </AnchorPane>
                                     <AnchorPane layoutX="4.0" layoutY="95.0" maxHeight="40.0" maxWidth="1053.0" minHeight="40.0" minWidth="410.0" prefHeight="40.0" prefWidth="1053.0" style="-fx-background-radius: 5; -fx-background-color: #4d5656;" AnchorPane.leftAnchor="4.0" AnchorPane.rightAnchor="4.0" AnchorPane.topAnchor="95.0">
@@ -70,7 +71,7 @@
                                                 <FontAwesomeIconView glyphName="SEARCH" size="20" />
                                              </graphic>
                                           </Button>
-                                          <CustomTextField fx:id="txtSeeks99" layoutX="14.0" layoutY="7.0" maxHeight="30.0" prefHeight="25.0" prefWidth="813.0" promptText="Press F3 for Description or Enter for Barcode" />
+                                          <CustomTextField fx:id="txtSeeks99" layoutX="14.0" layoutY="7.0" maxHeight="30.0" prefColumnCount="20" prefHeight="25.0" prefWidth="813.0" promptText="Press F3 for Description or Enter for Barcode" />
                                        </children>
                                     </AnchorPane>
                                     <AnchorPane layoutX="4.0" layoutY="53.0" minHeight="40.0" prefHeight="40.0" prefWidth="1053.0" style="-fx-background-radius: 5; -fx-background-color: #4d5656;" AnchorPane.leftAnchor="4.0" AnchorPane.rightAnchor="4.0">

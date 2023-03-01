@@ -1,6 +1,5 @@
 package org.rmj.cas.integsys.fx;
 
-import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView;
 import java.io.IOException;
 import java.net.URL;
 import java.sql.ResultSet;
@@ -19,7 +18,6 @@ import javafx.animation.Timeline;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
-import javafx.scene.control.Button;
 import javafx.scene.control.ContextMenu;
 import javafx.scene.control.Label;
 import javafx.scene.control.MenuItem;
@@ -30,9 +28,7 @@ import javafx.scene.layout.StackPane;
 import javafx.util.Duration;
 import org.rmj.appdriver.GRider;
 import org.rmj.appdriver.SQLUtil;
-import org.rmj.appdriver.agentfx.CommonUtils;
 import org.rmj.appdriver.agentfx.callback.IFXML;
-import org.rmj.cas.parameter.fx.ParameterFX;
 import org.rmj.sales.agentfx.XMSales;
 
 public class MainController implements Initializable {
@@ -97,6 +93,7 @@ public class MainController implements Initializable {
         //show dashboard
         setScene(LoadAnimate("Sales.fxml"));
         initMarketing(0);
+        
     }    
 
     private AnchorPane LoadAnimate(String fsFormName){

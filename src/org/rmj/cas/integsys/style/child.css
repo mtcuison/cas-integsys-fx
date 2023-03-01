@@ -113,7 +113,7 @@
     -fx-font-weight: bold;
 }
 
-#lblField00, #lblField01, #lblField02 {
+#lblField00, #lblField01, #lblField02, #lblAccredit {
     -fx-text-fill: #FFFFFF;
     -fx-font-size: 12;
 }
