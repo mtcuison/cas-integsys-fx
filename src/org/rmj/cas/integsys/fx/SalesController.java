@@ -140,6 +140,8 @@ public class SalesController implements Initializable, IFXML {
     
     private double xOffset = 0; 
     private double yOffset = 0;
+    @FXML
+    private Label lblAccredit;
     
 
     @Override
@@ -212,8 +214,10 @@ public class SalesController implements Initializable, IFXML {
         System.setProperty("pos.clt.date", SQLUtil.dateFormat(poGRider.getServerDate(), SQLUtil.FORMAT_SHORT_DATEX));
         
         lblField00.setText("IntegSysFX POS System v1.0" + lsTranMode);
-        lblField01.setText("Accreditation No.: " + System.getProperty("pos.clt.accrd.no"));
-        lblField02.setText("Machine No.: " + System.getProperty("pos.clt.crm.no"));
+        lblField01.setText("Accreditation No.: " + System.getProperty("pos.clt.crm.no"));
+        
+        lblAccredit.setText(System.getProperty("pos.footer.sAccrNmbr"));
+//        lblField02.setText("Machine No.: " + System.getProperty("pos.clt.crm.no"));
         
         clearFields();
         initGrid();

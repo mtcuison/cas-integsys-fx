@@ -80,7 +80,7 @@ public class ModifySPDetailController implements Initializable {
             switch(lnIndex){
                 case 7:
                 case 8:
-                    searchDiscount(lnIndex == 11);
+                    searchDiscount(lnIndex == 7);
                     txtField07.setText(String.valueOf(nDiscRate));
                     txtField08.setText(String.valueOf(nAddDiscx));
             }
